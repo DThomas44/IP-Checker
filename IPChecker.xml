@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <IPChecker>
     <settings>
-    	<maxThreads>50</maxThreads>
+    	<maxThreads>250</maxThreads>
     	<rowset id="scanTimes">
     		<row id="1" minute="00" />
     		<row id="2" minute="15" />
